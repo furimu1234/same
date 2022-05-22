@@ -1,0 +1,12 @@
+discord.py[voice] @ git+https://github.com/Rapptz/discord.py@master
+aiofiles
+numpy
+colorama
+python-dotenv
+sentry_sdk
+mojimoji
+pyyaml
+asyncpg
+sqlalchemy
+black
+mypy
